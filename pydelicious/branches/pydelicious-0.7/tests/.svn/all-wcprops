@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/60/branches/pydelicious-0.7/tests
+END
+blackbox_api_unicode.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/58/branches/pydelicious-0.7/tests/blackbox_api_unicode.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/58/branches/pydelicious-0.7/tests/main.py
+END
+blackbox_api_latin1.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/58/branches/pydelicious-0.7/tests/blackbox_api_latin1.py
+END
+test_encodings.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/58/branches/pydelicious-0.7/tests/test_encodings.py
+END
+pydelicioustest.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/branches/pydelicious-0.7/tests/pydelicioustest.py
+END
+blackbox_api.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/58/branches/pydelicious-0.7/tests/blackbox_api.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/58/branches/pydelicious-0.7/tests/__init__.py
+END

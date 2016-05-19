@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/60/branches/pydelicious-0.7/tools
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/58/branches/pydelicious-0.7/tools/__init__.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/58/branches/pydelicious-0.7/tools/cache.py
+END
+dlcs.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/branches/pydelicious-0.7/tools/dlcs.py
+END
+pkg_dlcs.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/58/branches/pydelicious-0.7/tools/pkg_dlcs.py
+END

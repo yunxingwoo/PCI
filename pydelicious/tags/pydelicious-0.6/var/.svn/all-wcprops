@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/57/tags/pydelicious-0.6/var
+END
+rss_pydelicious.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/57/tags/pydelicious-0.6/var/rss_pydelicious.xml
+END
+feed_v2.rss
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/57/tags/pydelicious-0.6/var/feed_v2.rss
+END
+feed_v2.json
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/57/tags/pydelicious-0.6/var/feed_v2.json
+END
+rss_tag_python.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/57/tags/pydelicious-0.6/var/rss_tag_python.xml
+END
+rss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/tags/pydelicious-0.6/var/rss.xml
+END
+rss_url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/57/tags/pydelicious-0.6/var/rss_url.xml
+END
+rss_popular.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/57/tags/pydelicious-0.6/var/rss_popular.xml
+END

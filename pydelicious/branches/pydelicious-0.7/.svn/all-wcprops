@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/60/branches/pydelicious-0.7
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/branches/pydelicious-0.7/license.txt
+END
+README.rst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/branches/pydelicious-0.7/README.rst
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/58/branches/pydelicious-0.7/TODO
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/branches/pydelicious-0.7/CHANGELOG
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/branches/pydelicious-0.7/setup.py
+END
+setup_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/58/branches/pydelicious-0.7/setup_tools.py
+END
+HACKING.rst
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/branches/pydelicious-0.7/HACKING.rst
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/branches/pydelicious-0.7/Makefile
+END
